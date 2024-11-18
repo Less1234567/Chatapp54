@@ -1,0 +1,1 @@
+app.use('/api/messages', require('./routes/messages'));
